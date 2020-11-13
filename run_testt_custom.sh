@@ -1,10 +1,8 @@
 #!/bin/sh -e 
 # edits for triplexator
 
-DIR=`dirname $0`
-
 # -----------------------------------------------------
-# Location of programs used by triplex inspector
+# Location of programs and version numbers used by triplex inspector
 # -----------------------------------------------------
 # triplex-inspector
 INSPECTOR=/home/josoga2/Documents/ecebpa/analysis/probes_mut_met
