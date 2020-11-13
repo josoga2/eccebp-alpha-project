@@ -1,4 +1,5 @@
 #!/bin/sh -e 
+# edits for triplexator
 
 DIR=`dirname $0`
 
