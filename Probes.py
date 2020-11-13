@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# to split main daaset based on fdr and delta values
 
 # In[1]:
 pwd
